@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.converter_box {
+  border: 3px solid #20573f;
+  padding: 20px;
+  max-width: 380px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.converter_box h3 {
+  color: #20573f;
+  text-align: center;
+}
+.converter_box input {
+  padding: 10px;
+  border: 2px solid #20573f;
+  outline: none;
+  font-weight: bold;
+}
+.converter_box select {
+  padding: 10px;
+  border: 2px solid #20573f;
+  outline: none;
+  font-weight: bold;
+}
+.currency_selectors {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.convert_res {
+  text-align: center;
+  padding: 10px;
+  color: #333;
+}
+.convert_res span {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: 900;
+}

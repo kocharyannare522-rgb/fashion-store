@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.not_found_container {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.error_code {
+  font-size: 150px;
+  font-weight: 900;
+  margin: 0;
+  color: #20573f;
+  letter-spacing: 10px;
+  line-height: 1;
+}
+.error_message {
+  font-size: 28px;
+  color: #636e72;
+  margin-top: 20px;
+}
+.error_description {
+  max-width: 450px;
+  margin: 20px auto;
+  color: #b2bec3;
+  line-height: 1.6;
+}
+
+.back_home_btn {
+  display: inline-block;
+  padding: 15px 35px;
+  background: #20573f;
+  color: white;
+  text-decoration: none;
+  border-radius: 50px;
+  font-weight: 600;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+  margin-top: 25px;
+}

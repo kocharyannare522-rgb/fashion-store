@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "What are the top trends for 2026?",
+    "answer": "The main trends for 2026 include 'digital lavender' colors and smart fabrics that regulate temperature based on your body heat. You will also see a rise in hyper-functional utility wear with many pockets, blending tech and style seamlessly."
+  },
+  {
+    "id": 2,
+    "question": "How to style a basic white T-shirt?",
+    "answer": "Pair it with high-waisted denim and a structured blazer for a chic, polished everyday look. For a more feminine touch, tuck it into a silk midi skirt and add some dainty gold jewelry."
+  },
+  {
+    "id": 3,
+    "question": "What colors go well with Emerald Green?",
+    "answer": "Emerald green looks incredibly expensive when paired with gold, beige, or navy blue accessories. For a bold winter look, try combining it with deep burgundy or a rich mustard yellow."
+  },
+  {
+    "id": 4,
+    "question": "What is the 'Quiet Luxury' trend?",
+    "answer": "Quiet Luxury focuses on high-quality materials like cashmere and silk without any visible logos or loud branding. It is all about perfect tailoring and a minimal aesthetic that screams sophistication without trying too hard."
+  },
+  {
+    "id": 5,
+    "question": "How to choose a suit for a job interview?",
+    "answer": "Stick to classic, professional colors like navy, charcoal, or black to project confidence and reliability. Ensure the shoulders fit perfectly and choose a crisp white shirt for a clean, traditional silhouette."
+  },
+  {
+    "id": 6,
+    "question": "What are must-have accessories for 2026?",
+    "answer": "Silver chunky jewelry and oversized sunglasses are making a massive comeback this year. Additionally, structured 'box' bags are the go-to choice for adding a modern edge to any outfit."
+  },
+  {
+    "id": 7,
+    "question": "How to wear denim on denim?",
+    "answer": "The secret to pulling off 'double denim' is either matching the washes exactly or going for a high contrast, like a light blue shirt with dark indigo jeans. Break up the denim with a leather belt or a simple white T-shirt to avoid looking too uniform."
+  },
+  {
+    "id": 8,
+    "question": "What should I wear to a summer wedding?",
+    "answer": "Opt for breathable fabrics like linen or silk in soft pastel shades or floral prints. A light-colored suit or a flowy midi dress with comfortable heels is the perfect choice for an outdoor celebration."
+  },
+  {
+    "id": 9,
+    "question": "How to style an oversized blazer?",
+    "answer": "Balance the large proportions by wearing something fitted underneath, such as leggings or a bodycon dress. You can also add a belt over the blazer to define your waist and create a more structured, fashion-forward look."
+  },
+  {
+    "id": 10,
+    "question": "What are the best shoes for wide-leg pants?",
+    "answer": "Pointed-toe boots or sleek sneakers work best to elongate your silhouette and keep the look balanced. Avoid chunky platform shoes that might make the overall outfit appear too heavy or cluttered."
+  },
+  {
+    "id": 11,
+    "question": "How to build a capsule wardrobe?",
+    "answer": "Focus on 10-15 versatile items like a trench coat, black trousers, and quality denim that can be mixed and matched. Invest in high-quality basics and neutral colors that will stay stylish for many years."
+  },
+  {
+    "id": 12,
+    "question": "What colors look best on warm skin tones?",
+    "answer": "Earth tones like mustard yellow, olive green, and warm reds are incredibly flattering for warm undertones. Cream and ivory are also better choices than pure white to highlight your natural glow."
+  },
+  {
+    "id": 13,
+    "question": "What colors look best on cool skin tones?",
+    "answer": "Jewel tones like sapphire blue, emerald green, and bright pink complement cool undertones perfectly. Silver jewelry and crisp white shirts also help to bring out the brightness in your complexion."
+  },
+  {
+    "id": 14,
+    "question": "How to transition summer clothes to fall?",
+    "answer": "Layer your favorite summer dresses with turtlenecks underneath or chunky knit sweaters on top as the weather cools. Swapping your sandals for leather boots and adding a trench coat will instantly make the look fall-ready."
+  },
+  {
+    "id": 15,
+    "question": "What is the best outfit for a first date?",
+    "answer": "Choose an outfit that makes you feel comfortable and confident, like dark jeans paired with a stylish knit top. A classic wrap dress is also a fantastic choice because it is both flattering and effortless."
+  },
+  {
+    "id": 16,
+    "question": "How to style a leather skirt?",
+    "answer": "To soften the toughness of leather, pair it with soft textures like a white cashmere sweater or a silk blouse. Neutral colors like cream or beige help create a sophisticated and balanced look for any occasion."
+  },
+  {
+    "id": 17,
+    "question": "What is 'Monochrome' dressing?",
+    "answer": "Monochrome dressing involves wearing different shades and textures of the same color from head to toe. This technique creates a sleek, elongated silhouette and makes any outfit look instantly more expensive."
+  },
+  {
+    "id": 18,
+    "question": "How to look expensive on a budget?",
+    "answer": "Always ensure your clothes are ironed and fit you well, as tailoring can make cheap items look high-end. Stick to neutral colors and replace plastic buttons with metal or pearl ones for a more premium finish."
+  },
+  {
+    "id": 19,
+    "question": "What are the best jeans for an hourglass figure?",
+    "answer": "High-waisted styles and flare jeans are ideal because they highlight your narrow waist and balance your curves. Look for denim with a bit of stretch to ensure a comfortable and flattering fit around the hips."
+  },
+  {
+    "id": 20,
+    "question": "How to wash delicate silk items?",
+    "answer": "Hand wash silk in cold water with a very gentle detergent and avoid wringing the fabric to prevent damage. Always air dry your silk pieces away from direct sunlight to maintain their color and shine."
+  },
+  {
+    "id": 21,
+    "question": "Is silver or gold jewelry more trendy now?",
+    "answer": "Silver is currently leading the trends for 2026, especially in chunky and bold designs. However, mixing both metals is becoming very popular, so don't be afraid to wear them together."
+  },
+  {
+    "id": 22,
+    "question": "How to style sneakers with a dress?",
+    "answer": "Choose clean, white leather sneakers for a polished and modern look that works well with midi dresses. This combination is perfect for a casual day out when you want to be comfortable yet stylish."
+  },
+  {
+    "id": 23,
+    "question": "What is the 'Old Money' aesthetic?",
+    "answer": "The 'Old Money' look is inspired by classic European fashion and includes items like polo shirts, loafers, and linen trousers. It focuses on timeless, high-quality pieces that look inherited rather than trendy."
+  },
+  {
+    "id": 24,
+    "question": "How to wear a scarf stylishly?",
+    "answer": "Try the classic 'French knot' for a sophisticated look, or simply drape it over your shoulders and secure it with a belt. This adds texture and warmth to your outfit without looking overly bulky."
+  },
+  {
+    "id": 25,
+    "question": "What to wear for a casual office day?",
+    "answer": "Dark wash jeans paired with a high-quality T-shirt and a structured cardigan strike the perfect balance. Complete the look with clean loafers or leather sneakers for a professional but relaxed vibe."
+  },
+  {
+    "id": 26,
+    "question": "How to find your personal style?",
+    "answer": "Start by creating a Pinterest board of outfits you love and look for common themes in colors or silhouettes. Once you identify what you're drawn to, invest in those core pieces to build your signature look."
+  },
+  {
+    "id": 27,
+    "question": "What is 'Sustainable Fashion'?",
+    "answer": "Sustainable fashion refers to clothing made ethically from eco-friendly materials that are designed to last for a long time. It aims to reduce waste and the environmental impact of the fashion industry by encouraging conscious consumption."
+  },
+  {
+    "id": 28,
+    "question": "How to style a trench coat?",
+    "answer": "A trench coat is a timeless classic that looks great worn open with jeans and a striped tee for a casual look. For a more formal approach, belt it tightly over a dress and add some heeled boots."
+  },
+  {
+    "id": 29,
+    "question": "What are the best winter fabrics?",
+    "answer": "Wool and cashmere are the gold standard for winter because they provide incredible warmth while still being breathable. Fleece is also a great modern option for more casual or athletic winter outfits."
+  },
+  {
+    "id": 30,
+    "question": "How to wear bright colors in winter?",
+    "answer": "The easiest way to incorporate color is by wearing a bright coat or a vibrant scarf against a neutral black or gray base. This creates a pop of interest without overwhelming the dark tones typical of winter fashion."
+  },
+  {
+    "id": 31,
+    "question": "What sunglasses fit a round face?",
+    "answer": "Rectangular or square frames are the best choice because they add angles and definition to a rounder face shape. Avoid round sunglasses, as they tend to emphasize the circular features of your face."
+  },
+  {
+    "id": 32,
+    "question": "How to style a slip dress for day wear?",
+    "answer": "Layer a simple white T-shirt underneath the dress or throw an oversized denim jacket over your shoulders. This tones down the formal 'nightwear' vibe and makes it perfect for a casual lunch or shopping."
+  },
+  {
+    "id": 33,
+    "question": "What is 'Athleisure'?",
+    "answer": "Athleisure is a style where athletic wear is integrated into everyday outfits, like pairing leggings with a long wool coat. It prioritizes comfort and functionality while still maintaining a sleek and trendy appearance."
+  },
+  {
+    "id": 34,
+    "question": "How to organize a closet effectively?",
+    "answer": "Group your clothes by category like tops, bottoms, and dresses, and then sub-sort them by color. Using matching hangers and clear storage bins will make your closet look much more organized and easy to navigate."
+  },
+  {
+    "id": 35,
+    "question": "What to wear on a long flight?",
+    "answer": "Choose stretchy trousers and a soft cotton T-shirt, then layer with a hoodie for changing cabin temperatures. Compression socks and slip-on shoes will also make your travel experience much more comfortable."
+  },
+  {
+    "id": 36,
+    "question": "How to style a turtleneck?",
+    "answer": "A turtleneck looks incredibly chic when tucked into high-waisted trousers or layered under a slip dress. For a more professional look, wear it under a button-down shirt or a sharp blazer."
+  },
+  {
+    "id": 37,
+    "question": "What is the 'Y2K' fashion trend?",
+    "answer": "Y2K is a revival of fashion from the late 90s and early 2000s, featuring low-rise jeans and butterfly clips. It is characterized by bright colors, playful accessories, and a bit of a nostalgic, futuristic vibe."
+  },
+  {
+    "id": 38,
+    "question": "How to wear a belt with a dress?",
+    "answer": "Use a thin belt for a subtle adjustment to your silhouette or a wide statement belt to create a dramatic hourglass shape. Placing the belt at your natural waistline is the most flattering way to define your figure."
+  },
+  {
+    "id": 39,
+    "question": "What are the best boots for rainy weather?",
+    "answer": "Look for high-quality rubber boots with a stylish Chelsea cut or leather boots that have been treated with a waterproof coating. These will keep your feet dry without sacrificing your overall fashion aesthetic."
+  },
+  {
+    "id": 40,
+    "question": "How to style a pleated skirt?",
+    "answer": "Pair your pleated skirt with a tucked-in blouse for a classic office look or a graphic tee for a weekend vibe. Adding a leather jacket over the top can give the delicate pleats a cool, edgy contrast."
+  },
+  {
+    "id": 41,
+    "question": "What color jewelry goes with navy blue?",
+    "answer": "Gold jewelry adds a warm and regal touch to navy blue, making it perfect for formal events. Silver is also a great option for a cooler, more modern and crisp appearance."
+  },
+  {
+    "id": 42,
+    "question": "How to choose the right handbag size?",
+    "answer": "Choose a handbag that is proportionate to your body frame; smaller bags for petite individuals and larger totes for taller people. This ensures that the bag complements your look rather than overwhelming it."
+  },
+  {
+    "id": 43,
+    "question": "What to wear to a cocktail party?",
+    "answer": "A knee-length dress or a dressy jumpsuit in a rich fabric like silk or velvet is always a safe and stylish bet. Complete the outfit with statement earrings and a pair of elegant heeled sandals."
+  },
+  {
+    "id": 44,
+    "question": "How to style a puffer jacket?",
+    "answer": "Keep the bottom half of your outfit slim, like skinny jeans or leggings, to balance the bulkiness of the jacket. This prevents you from looking overwhelmed by the volume and keeps the silhouette modern."
+  },
+  {
+    "id": 45,
+    "question": "What is 'Fast Fashion'?",
+    "answer": "Fast fashion refers to low-priced clothing that mimics current luxury trends and is produced at high speeds. While it is affordable, it often has negative environmental impacts and lower quality standards."
+  },
+  {
+    "id": 46,
+    "question": "How to wear a hat in winter?",
+    "answer": "A wool fedora can add a touch of elegance to a long coat, while a cashmere beanie is perfect for a cozy look. Choose colors that complement your outerwear to create a cohesive and stylish winter ensemble."
+  },
+  {
+    "id": 47,
+    "question": "What colors make you look taller?",
+    "answer": "Wearing a single color from head to toe, known as monochrome dressing, creates an unbroken vertical line that makes you appear taller. Darker shades like navy or black are particularly effective for this slimming and elongating trick."
+  },
+  {
+    "id": 48,
+    "question": "How to style a cardigan?",
+    "answer": "Try wearing your cardigan half-buttoned with high-waisted jeans for a trendy, casual look. You can also layer it over a floral sundress to add warmth and a cozy feel to your outfit."
+  },
+  {
+    "id": 49,
+    "question": "What to wear to a gallery opening?",
+    "answer": "Go for something artistic and structured, like a sculptural top or an asymmetrical skirt. Neutral colors with one bold statement accessory will help you look sophisticated and culturally relevant."
+  },
+  {
+    "id": 50,
+    "question": "How to maintain your leather boots?",
+    "answer": "Clean them regularly with a damp cloth and apply a leather conditioner every few months to keep the material supple. Using a water-repellent spray will also protect them from salt and rain during the winter months."
+  },
+  {
+    "id": 51,
+    "question": "What is the best way to style a denim jacket?",
+    "answer": "A denim jacket is incredibly versatile and can be thrown over a sundress for a casual summer evening look. You can also layer it under a heavier wool coat in the winter for added warmth and texture."
+  },
+  {
+    "id": 52,
+    "question": "How to choose the perfect pair of sunglasses?",
+    "answer": "Identify your face shape first and choose frames that provide contrast, such as angular frames for round faces. Ensure the lenses offer 100% UV protection to keep your eyes safe while looking stylish."
+  },
+  {
+    "id": 53,
+    "question": "What are the essential shoes every woman needs?",
+    "answer": "Every wardrobe should include white sneakers, black pumps, leather ankle boots, and comfortable flat loafers. These four styles will cover almost every occasion from casual outings to formal events."
+  },
+  {
+    "id": 54,
+    "question": "How to wear a blazer casually?",
+    "answer": "Pair your blazer with a graphic T-shirt and light-wash jeans to instantly dress down the look. Adding sneakers instead of heels will complete the effortless, 'cool-girl' aesthetic."
+  },
+  {
+    "id": 55,
+    "question": "What is the benefit of linen clothing?",
+    "answer": "Linen is a natural fiber that is highly breathable and moisture-wicking, making it ideal for hot summer weather. Although it wrinkles easily, those wrinkles are often seen as part of its relaxed, luxury charm."
+  },
+  {
+    "id": 56,
+    "question": "How to accessorize a simple black dress?",
+    "answer": "Add a bold statement necklace or a pair of vibrant heels to give the dress a focal point. A colorful clutch or a silk scarf tied around your neck can also transform the look for different occasions."
+  },
+  {
+    "id": 57,
+    "question": "What is the 'Normcore' fashion style?",
+    "answer": "Normcore is a unisex fashion trend characterized by unpretentious, average-looking clothing like plain hoodies and dad jeans. It is a reaction against the constant need for trends, focusing instead on being unremarkable and comfortable."
+  },
+  {
+    "id": 58,
+    "question": "How to style wide-leg trousers for work?",
+    "answer": "Pair them with a fitted blouse or a tucked-in turtleneck to balance the volume of the pants. Adding a pointed-toe heel will help elongate your legs and maintain a professional silhouette."
+  },
+  {
+    "id": 59,
+    "question": "What are the rules for mixing patterns?",
+    "answer": "The key is to vary the scale of the patterns, like pairing a large floral print with a small stripe. Stick to a consistent color palette across both patterns to ensure the look remains cohesive rather than chaotic."
+  },
+  {
+    "id": 60,
+    "question": "How to wear a midi skirt if you are petite?",
+    "answer": "Choose a midi skirt with a high waist and pair it with heels to prevent the length from shortening your frame. A skirt with a side slit can also help show a bit of skin and create the illusion of longer legs."
+  },
+  {
+    "id": 61,
+    "question": "What is the best way to store jewelry?",
+    "answer": "Keep your pieces in a lined jewelry box or hung on a stand to prevent tangling and scratching. Storing silver in airtight bags can also help slow down the tarnishing process significantly."
+  },
+  {
+    "id": 62,
+    "question": "How to choose a winter coat that lasts?",
+    "answer": "Look for a high wool percentage, typically over 70%, to ensure the coat actually keeps you warm. Stick to classic shapes like the wrap coat or the parka in neutral colors for maximum longevity."
+  },
+  {
+    "id": 63,
+    "question": "What is 'Streetwear' fashion?",
+    "answer": "Streetwear is a casual fashion style that grew out of New York hip-hop and California surf culture, focusing on sneakers and hoodies. It often involves limited-edition 'drops' and collaborations between high-fashion and sportswear brands."
+  },
+  {
+    "id": 64,
+    "question": "How to style a silk scarf on a handbag?",
+    "answer": "Tie the scarf in a neat bow around the base of the handle or wrap it entirely around the handle for a chic look. This is a great way to add a pop of color to a neutral bag and protect the leather from wear."
+  },
+  {
+    "id": 65,
+    "question": "What to wear to a business casual event?",
+    "answer": "Opt for tailored chinos or a skirt paired with a high-quality knit or a silk blouse. Avoid jeans and sneakers, but you don't need a full suit; loafers or pointed flats are perfect footwear choices."
+  },
+  {
+    "id": 66,
+    "question": "How to style a jumpsuit for an evening out?",
+    "answer": "Add a metallic belt to cinch your waist and wear your highest heels to elongate the legs. Statement earrings and a sleek clutch will complete the glamorous transformation of a daytime jumpsuit."
+  },
+  {
+    "id": 67,
+    "question": "What is the importance of a tailor?",
+    "answer": "A tailor can adjust off-the-rack clothing to fit your specific body measurements, making inexpensive items look bespoke. Simple changes like shortening sleeves or taking in a waist can completely change how an outfit looks on you."
+  },
+  {
+    "id": 68,
+    "question": "How to wear white jeans in winter?",
+    "answer": "Pair your white jeans with creamy knits and light gray textures for a sophisticated 'winter white' look. Avoid dark, heavy colors and instead use tan or beige boots to keep the outfit feeling light and airy."
+  },
+  {
+    "id": 69,
+    "question": "What are the best fabrics for travel?",
+    "answer": "Jersey and synthetic blends are excellent because they are wrinkle-resistant and have plenty of stretch. Merino wool is also a favorite for travelers because it is odor-resistant and helps regulate temperature in different climates."
+  },
+  {
+    "id": 70,
+    "question": "How to style a sweater over a dress?",
+    "answer": "Turn your favorite dress into a skirt by layering a cropped sweater over the top. You can use a belt to tuck the bottom of the sweater under, creating a perfectly tailored look that defines your waist."
+  },
+  {
+    "id": 71,
+    "question": "What is 'Dopamine Dressing'?",
+    "answer": "Dopamine dressing is the practice of wearing bright, cheerful colors and patterns specifically to boost your mood. It’s based on the idea that what we wear can have a psychological impact on how we feel throughout the day."
+  },
+  {
+    "id": 72,
+    "question": "How to choose the right belt size?",
+    "answer": "A belt should ideally close on the middle hole, allowing room for adjustment in both directions. Measure your waist or hips depending on where you plan to wear the belt to ensure you get the most flattering fit."
+  },
+  {
+    "id": 73,
+    "question": "What is a 'Statement Piece'?",
+    "answer": "A statement piece is a bold item of clothing or jewelry that stands out and becomes the focal point of your outfit. When wearing one, keep the rest of your look simple to let that specific item shine."
+  },
+  {
+    "id": 74,
+    "question": "How to style a vest in the spring?",
+    "answer": "Layer a tailored vest over a long-sleeved shirt for a sophisticated look that isn't too heavy. You can also wear it as a standalone top with high-waisted trousers for a more modern, fashion-forward vibe."
+  },
+  {
+    "id": 75,
+    "question": "What are the benefits of vintage shopping?",
+    "answer": "Vintage shopping allows you to find unique, high-quality pieces that no one else will be wearing. It is also a more sustainable way to shop, as it keeps existing clothing in circulation and reduces the demand for new production."
+  },
+  {
+    "id": 76,
+    "question": "How to wear a sequined item during the day?",
+    "answer": "Pair your sequins with very casual items like a distressed denim jacket or a simple gray sweatshirt. This contrast makes the sparkles look effortless rather than formal, perfect for a lunch date or a festive afternoon."
+  },
+  {
+    "id": 77,
+    "question": "What is 'Cottagecore' fashion?",
+    "answer": "Cottagecore is an aesthetic that romanticizes rural life, featuring floral prints, puffy sleeves, and long flowy skirts. It often uses natural fabrics like linen and cotton and emphasizes a simple, handcrafted look."
+  },
+  {
+    "id": 78,
+    "question": "How to style a polo shirt for women?",
+    "answer": "Tuck a fitted polo into a tennis skirt for a classic athletic look, or pair an oversized version with biker shorts. It can also be worn under a blazer to add a sporty yet professional edge to your office outfit."
+  },
+  {
+    "id": 79,
+    "question": "What are the best colors for a professional headshot?",
+    "answer": "Solid, mid-tone colors like blue, teal, or burgundy tend to photograph the best and complement most skin tones. Avoid busy patterns and very bright neon colors, as they can be distracting and wash you out in photos."
+  },
+  {
+    "id": 80,
+    "question": "How to wear high-waisted shorts?",
+    "answer": "Pair them with a tucked-in blouse or a cropped top to emphasize your waistline. Adding a belt and some wedge sandals can elevate the look from simple beachwear to a stylish summer outfit."
+  },
+  {
+    "id": 81,
+    "question": "What is the difference between style and fashion?",
+    "answer": "Fashion is what is offered in stores and changes every season, while style is how you choose to wear those clothes to express yourself. As fashion icon Iris Apfel once said, 'Fashion you can buy, but style you possess.'"
+  },
+  {
+    "id": 82,
+    "question": "How to style a beret?",
+    "answer": "Place the beret on your head at a slight tilt and pull it slightly back for a classic Parisian look. It works best with a trench coat or a simple knit sweater to add a touch of artistic flair to your outfit."
+  },
+  {
+    "id": 83,
+    "question": "What are the essential winter accessories?",
+    "answer": "Every winter wardrobe needs a thick wool scarf, a pair of leather gloves, and a warm beanie. Investing in these items in neutral colors like black or tan will ensure they match almost any coat you own."
+  },
+  {
+    "id": 84,
+    "question": "How to wear a mini skirt in the winter?",
+    "answer": "Wear your mini skirt with thick, opaque tights and knee-high boots to keep your legs warm. Adding a long coat that hits at the same length as the skirt can also create a very chic and balanced look."
+  },
+  {
+    "id": 85,
+    "question": "What is the 'Dark Academia' aesthetic?",
+    "answer": "Dark Academia is a style inspired by university life and classic literature, featuring tweeds, blazers, and dark colors. It emphasizes an intellectual, moody vibe and often includes vintage-inspired pieces like satchels and loafers."
+  },
+  {
+    "id": 86,
+    "question": "How to style a button-down shirt for a night out?",
+    "answer": "Leave a few buttons open and add several layered gold necklaces for a sophisticated yet sexy look. Tucking it into a leather mini skirt and adding heeled boots will instantly take it from the office to the club."
+  },
+  {
+    "id": 87,
+    "question": "What are the best shoes for a commute?",
+    "answer": "Invest in a pair of high-quality loafers or stylish sneakers that offer good arch support for walking. You can always keep your formal heels in your bag and swap them once you arrive at the office."
+  },
+  {
+    "id": 88,
+    "question": "How to choose a flattering swimsuit?",
+    "answer": "Choose a style that highlights your favorite features, such as a high-cut leg to elongate the body or a V-neck to draw attention upwards. Dark colors and ruching can also provide a slimming effect if that is what you are looking for."
+  },
+  {
+    "id": 89,
+    "question": "What is 'Minimalism' in fashion?",
+    "answer": "Minimalism is a style that focuses on simplicity, neutral colors, and clean lines. It rejects excess and instead emphasizes quality and functionality, often resulting in a very curated and timeless wardrobe."
+  },
+  {
+    "id": 90,
+    "question": "How to style a puffer vest?",
+    "answer": "Wear it over a long-sleeved shirt or a light hoodie for a perfect transitional spring or fall outfit. Pairing it with leggings and boots creates a practical yet stylish look for outdoor activities."
+  },
+  {
+    "id": 91,
+    "question": "What are the best fabrics for hot and humid weather?",
+    "answer": "Natural fibers like cotton and linen are the best because they allow air to circulate and absorb moisture. Seersucker is another great choice, as its unique texture keeps the fabric away from your skin, helping you stay cool."
+  },
+  {
+    "id": 92,
+    "question": "How to wear a statement coat?",
+    "answer": "Since the coat is the star of the show, keep everything else in your outfit neutral and understated. Black trousers and a simple turtleneck will allow a colorful or patterned coat to really stand out."
+  },
+  {
+    "id": 93,
+    "question": "What is 'Ethical Fashion'?",
+    "answer": "Ethical fashion focuses on the social impact of clothing production, ensuring fair wages and safe working conditions for laborers. It often goes hand-in-hand with sustainability, aiming to create a positive impact on both people and the planet."
+  },
+  {
+    "id": 94,
+    "question": "How to style a scarf as a top?",
+    "answer": "Fold a large silk scarf into a triangle and tie it around your chest for a trendy, summer-ready halter top. This look works best with high-waisted jeans and some simple sandals for a bohemian vibe."
+  },
+  {
+    "id": 95,
+    "question": "What to wear to a holiday party?",
+    "answer": "Embrace festive fabrics like velvet, sequins, or silk in deep jewel tones like ruby red or emerald green. A sparkly top paired with tailored trousers is a great alternative to a dress for a modern holiday look."
+  },
+  {
+    "id": 96,
+    "question": "How to choose the right length for trousers?",
+    "answer": "The hem of your trousers should just graze the top of your shoes for a clean and professional appearance. If you plan to wear them mostly with heels, ensure the length is adjusted specifically for those shoes to avoid tripping."
+  },
+  {
+    "id": 97,
+    "question": "What is the 'Barbiecore' trend?",
+    "answer": "Barbiecore is a vibrant and playful trend centered around all shades of pink, especially hot pink and fuchsia. It is inspired by the iconic Barbie doll and features feminine silhouettes, sparkly accessories, and a lot of confidence."
+  },
+  {
+    "id": 98,
+    "question": "How to style a duster coat?",
+    "answer": "A duster coat looks great with skinny jeans and a simple tee to balance its long, flowing length. Adding a pair of heels will help maintain a polished silhouette and prevent the coat from overwhelming your frame."
+  },
+  {
+    "id": 99,
+    "question": "What are the rules for wearing jewelry with a watch?",
+    "answer": "You can stack bracelets on the same wrist as your watch, but ensure they are of a similar style and won't scratch the watch face. Keeping it to one or two delicate bracelets will maintain a balanced and sophisticated look."
+  },
+  {
+    "id": 100,
+    "question": "How to freshen up clothes without washing them?",
+    "answer": "Use a steamer to remove wrinkles and kill bacteria, or hang your clothes in a well-ventilated area for a few hours. A fabric refresh spray can also help remove light odors and make your items smell clean between deep washes."
+  }
+]

@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.signin {
+  max-width: 450px;
+  margin: 80px auto;
+  padding: 40px;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.05);
+  border-radius: 4px;
+  text-align: center;
+}
+.signin_header {
+  color: #20573f;
+  font-size: 1.8rem;
+  margin-bottom: 30px;
+  letter-spacing: 1.5px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.signin_inp {
+  padding: 12px 15px;
+  border: 1px solid #d1d1d1;
+  outline: none;
+  font-size: 1rem;
+}
+.signin_inp:focus {
+  border-color: #20573f;
+}
+.submit-btn {
+  margin-top: 10px;
+  padding: 14px;
+  background: #20573f;
+  color: white;
+  border: none;
+  font-weight: 600;
+}
+.reset-btn {
+  margin-top: 10px;
+  padding: 14px;
+  background: #20573f;
+  color: white;
+  border: none;
+  font-weight: 600;
+}
+.profileCard {
+  color: #20573f;
+  margin-bottom: 20px;
+}
+.user-details {
+  text-align: left;
+  background: #fcfcfc;
+  padding: 20px;
+  margin-bottom: 25px;
+}
+.user-details p {
+  margin: 8px 0;
+  font-size: 1.1rem;
+}
+.reset-btn {
+  background-color: #20573f;
+  width: 100%;
+}

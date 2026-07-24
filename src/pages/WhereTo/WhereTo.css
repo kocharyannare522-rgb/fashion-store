@@ -1,0 +1,77 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.where_to_page {
+  padding: 50px 20px;
+  text-align: center;
+  min-height: 80vh;
+}
+.title {
+  color: #20573f;
+  margin-bottom: 40px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.continents_grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+  max-width: 900px;
+  margin: 0 auto 50px auto;
+}
+.continent_box {
+  width: 160px;
+  height: 100px;
+  border: 3px solid #20573f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+.continent_name {
+  color: #20573f;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+.active_box {
+  background-color: #20573f;
+  transform: scale(1.05);
+}
+.active_box .continent_name {
+  color: white;
+}
+.selection_area {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 30px;
+  border: 1px solid #d4a373;
+  background-color: #fcfcfc;
+}
+.selection_area h3 {
+  color: #20573f;
+  margin-bottom: 15px;
+}
+.country_dropdown {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid #20573f;
+  background: white;
+  color: #20573f;
+  font-size: 1rem;
+  margin-bottom: 20px;
+  outline: none;
+}
+.confirm_location_btn {
+  width: 100%;
+  padding: 15px;
+  background-color: #20573f;
+  color: white;
+  border: none;
+  font-weight: bold;
+}
+.confirm_location_btn:hover {
+  background-color: #d4a373;
+}

@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.carousel-container {
+  position: relative;
+  width: 600px;
+  height: 700px;
+  margin: 50px auto;
+  border-radius: 15px;
+}
+.carousel-slide {
+  width: 100%;
+  height: 100%;
+}
+.home_img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.nav-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.prev {
+  left: 15px;
+}
+.next {
+  right: 15px;
+}
+.dot {
+  height: 8px;
+  width: 8px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+  transition: 0.3s;
+}

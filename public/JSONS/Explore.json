@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "name": "Luxury Velvet Evening Gown",
+    "price": 850,
+    "images": [
+      "/Images/Explore/1.webp",
+      "/Images/Explore/2.jpg",
+      "/Images/Explore/3.webp",
+      "/Images/Explore/4.webp"
+    ],
+    "country": "France",
+    "quality": "Ultra Premium"
+  },
+  {
+    "id": 2,
+    "name": "Oversized Cashmere Blazer",
+    "price": 620,
+    "images": [
+      "/Images/Explore/5.jpg",
+      "/Images/Explore/6.webp",
+      "/Images/Explore/7.avif",
+      "/Images/Explore/8.jpg"
+    ],
+    "country": "Italy",
+    "quality": "Premium"
+  },
+  {
+    "id": 3,
+    "name": "High-Waist Silk Trousers",
+    "price": 340,
+    "images": [
+      "/Images/Explore/11.jpg",
+      "/Images/Explore/12.jpg",
+      "/Images/Explore/13.webp",
+      "/Images/Explore/14.webp"
+    ],
+    "country": "France",
+    "quality": "Premium"
+  },
+  {
+    "id": 4,
+    "name": "Handmade Wool Trench Coat",
+    "price": 980,
+    "images": [
+      "/Images/Explore/16.avif",
+      "/Images/Explore/17.jpg",
+      "/Images/Explore/18.jpg",
+      "/Images/Explore/19.jpg"
+    ],
+    "country": "UK",
+    "quality": "Ultra Premium"
+  },
+  {
+    "id": 5,
+    "name": "Minimalist Linen Suit",
+    "price": 710,
+    "images": [
+      "/Images/Explore/21.avif",
+      "/Images/Explore/22.webp",
+      "/Images/Explore/23.webp",
+      "/Images/Explore/24.jpg"
+    ],
+    "country": "Sweden",
+    "quality": "High"
+  },
+  {
+    "id": 6,
+    "name": "Crocodile Pattern Clutch",
+    "price": 1200,
+    "images": [
+      "/Images/Explore/26.jpg",
+      "/Images/Explore/27.jpg",
+      "/Images/Explore/28.webp",
+      "/Images/Explore/30.jpg"
+    ],
+    "country": "France",
+    "quality": "Luxury"
+  },
+  {
+    "id": 7,
+    "name": "Angora Wool Cardigan",
+    "price": 390,
+    "images": [
+      "/Images/Explore/31.jpg",
+      "/Images/Explore/50.jpg",
+      "/Images/Explore/33.jpg",
+      "/Images/Explore/34.webp"
+    ],
+    "country": "Norway",
+    "quality": "High"
+  },
+  {
+    "id": 8,
+    "name": "Slim Fit Tuxedo Jacket",
+    "price": 890,
+    "images": [
+      "/Images/Explore/36.webp",
+      "/Images/Explore/37.webp",
+      "/Images/Explore/38.jpg",
+      "/Images/Explore/39.jpg"
+    ],
+    "country": "UK",
+    "quality": "Premium"
+  },
+  {
+    "id": 9,
+    "name": "Techwear Waterproof Parka",
+    "price": 670,
+    "images": [
+      "/Images/Explore/41.jpg",
+      "/Images/Explore/42.webp",
+      "/Images/Explore/43.webp",
+      "/Images/Explore/44.jpg"
+    ],
+    "country": "Germany",
+    "quality": "High Performance"
+  },
+  {
+    "id": 10,
+    "name": "Geometric Knit Vest",
+    "price": 150,
+    "images": [
+      "/Images/Explore/45.jpg",
+      "/Images/Explore/46.jpg",
+      "/Images/Explore/47.jpg",
+      "/Images/Explore/48.jpg"
+    ],
+    "country": "South Korea",
+    "quality": "High"
+  },
+  {
+    "id": 11,
+    "name": "Slim Fit Distressed Jeans",
+    "price": 120,
+    "images": [
+      "/Images/Explore/51.webp",
+      "/Images/Explore/52.jpg",
+      "/Images/Explore/53.webp",
+      "/Images/Explore/54.webp"
+    ],
+    "country": "USA",
+    "quality": "High"
+  },
+  {
+    "id": 12,
+    "name": "Classic Cotton Polo Shirt",
+    "price": 85,
+    "images": [
+      "/Images/Explore/55.jpg",
+      "/Images/Explore/56.jpg",
+      "/Images/Explore/57.jpg",
+      "/Images/Explore/58.jpg"
+    ],
+    "country": "UK",
+    "quality": "Premium"
+  },
+  {
+    "id": 13,
+    "name": "High-Performance Yoga Leggings",
+    "price": 95,
+    "images": [
+      "/Images/Explore/59.jpg",
+      "/Images/Explore/60.webp",
+      "/Images/Explore/61.webp",
+      "/Images/Explore/62.jpg"
+    ],
+    "country": "Canada",
+    "quality": "High Performance"
+  },
+  {
+    "id": 14,
+    "name": "Fleece Lining Sports Joggers",
+    "price": 110,
+    "images": [
+      "/Images/Explore/63.jpg",
+      "/Images/Explore/64.jpg",
+      "/Images/Explore/65.avif",
+      "/Images/Explore/66.jpg"
+    ],
+    "country": "USA",
+    "quality": "Premium"
+  },
+  {
+    "id": 15,
+    "name": "Raw Denim Straight Trousers",
+    "price": 180,
+    "images": [
+      "/Images/Explore/67.webp",
+      "/Images/Explore/68.jpg",
+      "/Images/Explore/69.jpg",
+      "/Images/Explore/70.jpg"
+    ],
+    "country": "Japan",
+    "quality": "Ultra Premium"
+  },
+  {
+    "id": 16,
+    "name": "Pique Cotton Slim Polo",
+    "price": 75,
+    "images": [
+      "/Images/Explore/71.jpg",
+      "/Images/Explore/72.jpg",
+      "/Images/Explore/73.jpg",
+      "/Images/Explore/74.webp"
+    ],
+    "country": "Italy",
+    "quality": "High"
+  },
+  {
+    "id": 17,
+    "name": "Heavyweight Cotton Hoodie",
+    "price": 140,
+    "images": [
+      "/Images/Explore/75.jpg",
+      "/Images/Explore/76.jpg",
+      "/Images/Explore/77.webp",
+      "/Images/Explore/78.jpg"
+    ],
+    "country": "USA",
+    "quality": "Premium"
+  },
+  {
+    "id": 18,
+    "name": "Loose Fit Cargo Jeans",
+    "price": 135,
+    "images": [
+      "/Images/Explore/79.jpg",
+      "/Images/Explore/80.jpg",
+      "/Images/Explore/81.jpg",
+      "/Images/Explore/82.jpg"
+    ],
+    "country": "South Korea",
+    "quality": "High"
+  },
+  {
+    "id": 19,
+    "name": "Technical Knit Polo",
+    "price": 115,
+    "images": [
+      "/Images/Explore/83.jpg",
+      "/Images/Explore/84.jpg",
+      "/Images/Explore/85.webp",
+      "/Images/Explore/86.jpg"
+    ],
+    "country": "Japan",
+    "quality": "High Performance"
+  },
+  {
+    "id": 20,
+    "name": "Vintage Wash Mom Jeans",
+    "price": 95,
+    "images": [
+      "/Images/Explore/87.webp",
+      "/Images/Explore/88.jpg",
+      "/Images/Explore/89.png",
+      "/Images/Explore/90.jpg"
+    ],
+    "country": "USA",
+    "quality": "Standard High"
+  },
+  {
+    "id": 21,
+    "name": "Silk Blend Polo Sweater",
+    "price": 280,
+    "images": [
+      "/Images/Explore/91.jpg",
+      "/Images/Explore/92.jpg",
+      "/Images/Explore/93.jpg",
+      "/Images/Explore/94.jpg"
+    ],
+    "country": "Italy",
+    "quality": "Ultra Premium"
+  },
+  {
+    "id": 22,
+    "name": "Wide Leg Patchwork Jeans",
+    "price": 240,
+    "images": [
+      "/Images/Explore/95.jpg",
+      "/Images/Explore/96.webp",
+      "/Images/Explore/97.jpg",
+      "/Images/Explore/98.webp"
+    ],
+    "country": "Japan",
+    "quality": "Premium"
+  },
+  {
+    "id": 23,
+    "name": "Knitted Zip-up Polo",
+    "price": 190,
+    "images": [
+      "/Images/Explore/99.avif",
+      "/Images/Explore/100.avif",
+      "/Images/Explore/101.webp",
+      "/Images/Explore/102.jpg"
+    ],
+    "country": "UK",
+    "quality": "Premium"
+  },
+  {
+    "id": 24,
+    "name": "White Relaxed Fit Jeans",
+    "price": 130,
+    "images": [
+      "/Images/Explore/103.webp",
+      "/Images/Explore/104.jpg",
+      "/Images/Explore/105.webp",
+      "/Images/Explore/102.jpg"
+    ],
+    "country": "France",
+    "quality": "Premium"
+  },
+  {
+    "id": 25,
+    "name": "Striped Long Sleeve Polo",
+    "price": 95,
+    "images": [
+      "/Images/Explore/107.jpg",
+      "/Images/Explore/108.jpg",
+      "/Images/Explore/109.jpg",
+      "/Images/Explore/110.webp"
+    ],
+    "country": "UK",
+    "quality": "High"
+  },
+  {
+    "id": 26,
+    "name": "Baggy Carpenter Jeans",
+    "price": 165,
+    "images": [
+      "/Images/Explore/111.avif",
+      "/Images/Explore/112.webp",
+      "/Images/Explore/114.webp",
+      "/Images/Explore/115.jpg"
+    ],
+    "country": "USA",
+    "quality": "High"
+  },
+  {
+    "id": 27,
+    "name": "Acid Wash Denim Jacket",
+    "price": 200,
+    "images": [
+      "/Images/Explore/116.jpg",
+      "/Images/Explore/117.webp",
+      "/Images/Explore/118.webp",
+      "/Images/Explore/119.webp"
+    ],
+    "country": "USA",
+    "quality": "Premium"
+  },
+  {
+    "id": 28,
+    "name": "Cargo Style Sweatpants",
+    "price": 140,
+    "images": [
+      "/Images/Explore/120.jpg",
+      "/Images/Explore/121.jpg",
+      "/Images/Explore/122.webp",
+      "/Images/Explore/123.avif"
+    ],
+    "country": "USA",
+    "quality": "High"
+  },
+  {
+    "id": 29,
+    "name": "Adidas Samba OG",
+    "price": 100,
+    "images": [
+      "/Images/Explore/124.avif",
+      "/Images/Explore/125.webp",
+      "/Images/Explore/126.jpg",
+      "/Images/Explore/127.jpg"
+    ],
+    "country": "Germany",
+    "quality": "High"
+  },
+  {
+    "id": 30,
+    "name": "Adidas Yeezy Boost 350",
+    "price": 230,
+    "images": [
+      "/Images/Explore/128.jpg",
+      "/Images/Explore/129.jpg",
+      "/Images/Explore/130.jpg",
+      "/Images/Explore/131.jpg"
+    ],
+    "country": "Germany",
+    "quality": "Luxury"
+  },
+  {
+    "id": 31,
+    "name": "Adidas Gazelle Classic",
+    "price": 120,
+    "images": [
+      "/Images/Explore/132.avif",
+      "/Images/Explore/133.jpg",
+      "/Images/Explore/134.jpg",
+      "/Images/Explore/135.webp"
+    ],
+    "country": "Germany",
+    "quality": "High"
+  },
+  {
+    "id": 32,
+    "name": "Adidas Forum Low",
+    "price": 110,
+    "images": [
+      "/Images/Explore/136.jpg",
+      "/Images/Explore/137.webp",
+      "/Images/Explore/138.jpg",
+      "/Images/Explore/139.jpg"
+    ],
+    "country": "Germany",
+    "quality": "Premium"
+  }
+]

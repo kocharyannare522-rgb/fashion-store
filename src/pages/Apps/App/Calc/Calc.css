@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.calc_container {
+  max-width: 320px;
+  margin: 50px auto;
+  background-color: #1d6039;
+  padding: 20px;
+  border-radius: 20px;
+}
+.display_screen {
+  color: #ffffff;
+  text-align: right;
+  padding: 20px;
+  font-size: 2rem;
+  background-color: white;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  color: black;
+}
+.buttons_grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+.num {
+  padding: 20px;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 10px;
+}

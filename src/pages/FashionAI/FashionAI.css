@@ -1,0 +1,100 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.chat_container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+}
+.ai_title {
+  color: #20573f;
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+.chat_window {
+  height: 300px;
+  border: 3px solid #20573f;
+  padding: 25px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.message {
+  max-width: 75%;
+  padding: 14px 20px;
+  border-radius: 18px;
+  line-height: 1.5;
+  font-size: 1rem;
+}
+
+@keyframes messageFade {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.user {
+  align-self: flex-end;
+  background: #d4a373;
+  color: white;
+  border-bottom-right-radius: 2px;
+}
+
+.bot {
+  align-self: flex-start;
+  background: #20573f;
+  color: white;
+  border-bottom-left-radius: 2px;
+}
+
+.loading {
+  border: 1px solid #20573f;
+}
+
+.grid_title {
+  color: #20573f;
+  margin-bottom: 15px;
+  font-size: 1.2rem;
+}
+
+.bubbles_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  max-height: 250px;
+  overflow-y: auto;
+  padding: 15px;
+  border: 1px solid #eee;
+}
+
+.q_bubble {
+  padding: 12px 18px;
+  border: 1.5px solid #20573f;
+  color: #20573f;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.q_bubble:hover:not(:disabled) {
+  background: #20573f;
+  color: #d4a373;
+  transform: translateY(-2px);
+}
+
+.q_bubble:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
